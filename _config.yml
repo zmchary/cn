@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://zmchary.github.io/cn
-author: Zimu1
+author: Zimu
 pygments: true
 
