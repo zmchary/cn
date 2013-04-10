@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Hello world!
-category: default
+category: Life
 ---
 
-Test,愿景,每天写点东西!坚持
+# Hello world
 
-{% include references.md %}
+在毕业的前夕,开始我的技术生活的博客记录.
+
+### 热爱生活,专注技术!
